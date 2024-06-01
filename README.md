@@ -1,1 +1,2 @@
-# linny
+# Furniture-collection
+Furniture collection
